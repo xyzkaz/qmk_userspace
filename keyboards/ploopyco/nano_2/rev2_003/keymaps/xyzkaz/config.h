@@ -1,0 +1,8 @@
+#pragma once
+
+#define PLOOPY_DPI_OPTIONS { 2400, 800 }
+#define PLOOPY_DPI_DEFAULT 0
+
+#define PLOOPY_DRAGSCROLL_INVERT
+
+#define TAPPING_TERM 150
